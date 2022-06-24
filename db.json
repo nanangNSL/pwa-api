@@ -1,5 +1,5 @@
 {
-  "biodata" : [
+  "biodata" :[
   {"id":1,"name":"Arnie Farlow","date-of-birth":"1998-03-31","gender":"Male","city":"Al ‘Ashshah","school":"Wayne State University","skill":"Hardware","current-job":"Web Designer III","favorite-food":"Rabbit - Saddles"},
 {"id":2,"name":"Gilly Weson","date-of-birth":"1928-02-27","gender":"Female","city":"Yoshkar-Ola","school":"Aktau State University","skill":"FSP","current-job":"GIS Technical Architect","favorite-food":"Steel Wool S.o.s"},
 {"id":3,"name":"Hettie Grantham","date-of-birth":"2008-04-03","gender":"Female","city":"Sidamukti","school":"Technical University of Lublin","skill":"Digital Signage","current-job":"Developer I","favorite-food":"Tomatoes - Plum, Canned"},
